@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name = 'rsword'
-  gem.version = '0.1.0'
+  gem.version = '0.1.0.pre'
   gem.date = Date.today.to_s
 
   gem.signing_key = '/home/cowanb/.ssh/gem-private_key.pem'
@@ -13,8 +13,8 @@ Gem::Specification.new do |gem|
   gem.email = 'brianlovesjesus@perffection.com'
   gem.homepage = 'http://github.com/brianlovesjesus/rsword'
 
-  gem.files = Dir['extconf.rb', 'rsword.cxx', '*.h'] #& `git ls-files -z`.split("\0")
+  gem.files = Dir['ext/*','README'] #& `git ls-files -z`.split("\0")
 
-  gem.extensions="extconf.rb"
+  gem.extensions="ext/extconf.rb"
   gem.post_install_message  = "Jesus is Lord!";
 end
