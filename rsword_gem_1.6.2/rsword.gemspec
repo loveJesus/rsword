@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name = 'rsword'
-  gem.version = '0.1.0.pre'
+  gem.version = '0.1.0.pre_p'
   gem.date = Date.today.to_s
 
   gem.signing_key = '/home/cowanb/.ssh/gem-private_key.pem'

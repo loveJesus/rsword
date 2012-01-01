@@ -7,6 +7,8 @@ dir_config('sword');
   ['/usr/','/opt/','/usr/local/','/opt/local/'].each do |d|
     a<< d+'lib';
     a<< d+lb+'/lib';
+    a<< d+lb+'/lib64';
+    a<< d+'/lib64';
   end
   find_library(lb,nil,*a);
 end
