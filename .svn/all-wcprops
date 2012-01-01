@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sword/!svn/ver/2541/trunk/bindings/swig/package
+END
+zlib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sword/!svn/ver/1323/trunk/bindings/swig/package/zlib.m4
+END
+python.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sword/!svn/ver/1323/trunk/bindings/swig/package/python.m4
+END
+perl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sword/!svn/ver/1323/trunk/bindings/swig/package/perl.m4
+END
+tcl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sword/!svn/ver/1323/trunk/bindings/swig/package/tcl.m4
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sword/!svn/ver/2541/trunk/bindings/swig/package/configure.ac
+END
+README.cvs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sword/!svn/ver/1478/trunk/bindings/swig/package/README.cvs
+END
+swig.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sword/!svn/ver/1323/trunk/bindings/swig/package/swig.m4
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sword/!svn/ver/2350/trunk/bindings/swig/package/Makefile.am
+END
+php4.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sword/!svn/ver/1323/trunk/bindings/swig/package/php4.m4
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sword/!svn/ver/2539/trunk/bindings/swig/package/autogen.sh
+END
+sword.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sword/!svn/ver/2158/trunk/bindings/swig/package/sword.m4
+END

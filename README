@@ -1,0 +1,9 @@
+RSword, Sword binded to ruby using SWIG
+
+gem buildable from rsword_gem/
+
+require 'rsword'
+will create a Sword:: module
+
+God bless you! Love the way Jesus is awesome! Happy new year!
+
